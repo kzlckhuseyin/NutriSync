@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NutriSync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed1231ea6c12dadd3984f218462434effddd9901")]
 [assembly: System.Reflection.AssemblyProductAttribute("NutriSync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NutriSync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
