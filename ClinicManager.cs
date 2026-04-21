@@ -2,12 +2,12 @@ public class ClinicManager
 {
     public List<Patient> patients = new List<Patient>();
     public List<Dietitian> dietitians = new List<Dietitian>();
-     public void AddPatient(Patient p)
+    public void AddPatient(Patient p)
     {
         patients.Add(p);
     }
 
-    public void AddDeititian(Dietitian d)
+    public void AddDietitian(Dietitian d)
     {
         dietitians.Add(d);
     }
