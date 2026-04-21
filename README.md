@@ -31,3 +31,12 @@ Projeyi bilgisayarınızda çalıştırmak için .NET SDK'nın yüklü olduğund
 1. Repoyu klonlayın:
    ```bash
    git clone [https://github.com/kzlckhuseyin/NutriSync.git](https://github.com/kzlckhuseyin/NutriSync.git)
+   ```
+2. Proje dizinine (klasörüne) gidin:
+   ```bash
+   cd NutriSync
+   ```
+3. Projeyi çalıştırın:
+   ```bash
+   dotnet run
+   ```
